@@ -18,7 +18,7 @@ Created By viloid (github.com/vsec7)
 ## • Installation
 
 ```bash
-git clone https://github.com/vsec7/DiscordSelfbot.git
+git clone https://github.com/hawatirr/cepetoge.git
 ```
 
 ## • Edit Configurations *config.yaml* file
